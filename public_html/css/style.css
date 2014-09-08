@@ -1,0 +1,145 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: cyan;
+}
+h2 {
+    color: cyan;
+}
+p {
+    color: gold
+}
+h2 {
+    font-size: 150%;
+}
+h1 {
+    text-shadow: 2px 2px #ff0000;
+}
+p {
+    text-shadow: 2px 2px #ff0000;
+}
+p {
+    font-size: 130%
+}
+h1 {
+    text-shadow: 5px 5px 5px #FF0000;
+}
+h2 {text-shadow: 5px 5px 5px #FF0000;
+    
+}
+p {
+   text-shadow: 5px 5px 5px #FF0000; 
+}
+div {
+    color: cyan;
+}
+a {
+    text-align: center
+}
+p {
+    font-family: "Impact";
+}
+h2 {
+    font-family: "Lucida Handwriting";
+}
+h1 {
+    font-family: "Verdana";
+}
+a {
+    text-decoration: none;
+}
+p {
+    text-align: justify;
+}
+p {
+    padding: 24px;
+    margin: 0px;
+}
+h1 {
+    padding: 24px;
+    padding-bottom: 5px;
+    margin: 0px;
+}
+h2 {
+    padding: 24px;
+    padding-bottom: 5px;
+    margin: 0px;
+}
+a {
+    color: white;
+}
+#footerheader {
+    font-family: Times New Roman;
+}
+#footerheader {
+    color: gold;
+}
+p {
+    margin-bottom: 10px;
+}
+#footerheader {
+    font-size: 120%;
+}
+#footerheader2 {
+    font-size: 95%;
+    font-family: Verdana;
+    color: cyan;
+    text-shadow: 5px 5px 5px #FF0000;
+}
+#footerheader3 {
+    font-size: 95%;
+    font-family: Verdana;
+    color: cyan;
+    text-shadow: 5px 5px 5px #FF0000;
+    margin-left: 683px;
+}
+#menubar1 {
+    border-bottom: 2px solid;
+    border-radius: 25px;
+    border-color: cyan;
+}
+#paragraph1 {
+    text-indent: 25px;
+        padding-bottom: 1px;
+        padding-top: 10px;
+}
+#paragraph2 {
+    text-indent: 25px;
+        padding-bottom: 1px;
+        padding-top: 10px;
+}
+#paragraph3 {
+    text-indent: 25px;
+        padding-bottom: 1px;
+        padding-top: 10px;
+}
+h1aboutme {
+    font-size: 50%
+}
+#technologylink {
+    text-shadow: 2px 2px #ff0000;
+    font-family: Impact;
+    font-size: 150%;
+    color: cyan;
+    margin-top: 5px
+}
+#projectlink {
+    text-shadow: 2px 2px #ff0000;
+    font-family: Impact;
+    font-size: 150%;
+    color: gold;
+    margin-top: 5px
+}
+#projectlink2 {
+    text-shadow: 2px 2px #ff0000;
+    font-family: Impact;
+    font-size: 150%;
+    color: white;
+    margin-top: 5px
+}
+
+
+
+
+
