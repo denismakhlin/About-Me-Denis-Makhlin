@@ -1,6 +1,4 @@
-body {
-    background-color: black;
-}
+/*this is css code and below i changed my font size, my font, my font color, and all my resizing*/
 h1 {
     color: cyan;
 }
@@ -140,11 +138,27 @@ h1aboutme {
     color: white;
     margin-top: 0px;
     padding-top: 0px;
-      
+ /*this is my code for my navigation bar*/     
 }
 body {
     background-image: url('http://static.tumblr.com/55f11552690570618036fca080244cab/ksyxnam/T10n59b25/tumblr_static_cff26feo7zks0gws080gskc0o.jpg');
 }
-
+        body{ backround:#000; margin: 0px; }
+            div#menubar1{padding: 24px;}
+            div#menubar1 > a{
+                font-family: Ariel, Helvetica, sans-serif;
+                font-size: 17px;
+                background: #333;
+                padding: 12px 24px;
+                color: #999;
+                margin-right: 10px;
+                text-decoration: none;
+                border-radius: 3px;
+                transition: background 0.3s linear 0s, color 0.3s linear 0s;
+            }
+            div#menubar1 > a:hover{
+                background:blue;
+                color: deeppink;
+            }
 
 
