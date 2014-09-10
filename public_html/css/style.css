@@ -127,19 +127,24 @@ h1aboutme {
 #projectlink {
     text-shadow: 2px 2px #ff0000;
     font-family: Impact;
-    font-size: 150%;
+    font-size: 160%;
     color: gold;
-    margin-top: 5px
+    margin-top: 0px;
+    padding: 0px
+    
 }
 #projectlink2 {
     text-shadow: 2px 2px #ff0000;
     font-family: Impact;
-    font-size: 150%;
+    font-size: 155%;
     color: white;
-    margin-top: 5px
+    margin-top: 0px;
+    padding-top: 0px;
+      
 }
-
-
+body {
+    background-image: url('http://static.tumblr.com/55f11552690570618036fca080244cab/ksyxnam/T10n59b25/tumblr_static_cff26feo7zks0gws080gskc0o.jpg');
+}
 
 
 
