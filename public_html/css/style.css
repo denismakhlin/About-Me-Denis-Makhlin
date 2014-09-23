@@ -141,7 +141,7 @@ h1aboutme {
  /*this is my code for my navigation bar*/     
 }
 body {
-    background-image: url('http://static.tumblr.com/55f11552690570618036fca080244cab/ksyxnam/T10n59b25/tumblr_static_cff26feo7zks0gws080gskc0o.jpg');
+    background-image: url('http://static.wallpedes.com/wallpaper/ipad/ipad-marine-corps-camouflage-wallpaper-wallpaper-military-camouflage-desktop-ipad-marine-corps-military-pattern.jpg');
 }
         body{ backround:#000; margin: 0px; }
             div#menubar1{padding: 24px;}
@@ -154,11 +154,11 @@ body {
                 margin-right: 10px;
                 text-decoration: none;
                 border-radius: 3px;
-                transition: background 0.3s linear 0s, color 0.3s linear 0s;
+                transition: background 0.5s linear 0s, color 0.5s linear 0s;
             }
             div#menubar1 > a:hover{
-                background:blue;
-                color: deeppink;
+                background:green;
+                color: gold;
             }
 
 
